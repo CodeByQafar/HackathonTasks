@@ -1,0 +1,32 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.categories-cards {
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    justify-content: space-around;
+}
+
+h1 {
+    text-align: center;
+    margin: 20px;
+}
+
+.card{
+   
+}
+.category-form {
+
+    max-width: 60vh;
+    margin: 0 auto;
+}
+
+
+.create-form{
+        max-width: 60vh;
+    margin: 0 auto;
+}
